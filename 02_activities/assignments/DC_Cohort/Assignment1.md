@@ -205,6 +205,36 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-In contemporary life, data systems mediate everyday interaction from university portals like Quercus, to paying bills to even expressing one's feelings and emotions on social media. Their databases have particular  assumptions about people, relations, and how things or society function, and thus they end up reproducing some of the hierarchies and political inclinations of the society in which they are designed. Many data systems assume that society and social life are reducible to quantifiable metrics. These become very evident through the social media platforms and likes, comments, and subscription options that we come across. There is a sense of promotion of the individual over the community. Along similar lines, the university education system also assesses the student through participation scores, timetables, and analytic dashboards. Thereby, it reflects a neoliberal framework in which individual productivity, competition, and visibility are favored over collective learning and care. When relationships, learning, and creativity are translated into metrics and data, then the relational dimension of human life is devalued in favour of what can be counted, and this is one of how the data systems affect the social structures and show how society and technology intersect and interact in teh everyday life. The second interesting aspect is that of standardisation- for example, as evident through the article- the Pakistani NADRA system structures citizenship and identity around a digital  family tree that is digital, requiring all individuals to be verified through blood or marriage. As a consequence of this, single mothers, adopted children, or those outside heteronormative family structures find themselves excluded. This illustrates how technical systems can naturalize moral judgments about what constitutes a “legitimate” family, transforming social expectations into algorithmic rules. Thirdly, with the increasing use of biometric authentication, facial recognition, and geolocation in everyday applications, a moral logic of suspicion and verification is built, because of which Users must constantly prove who they are to access services, as if trust is something that needs to be digitally established. Fourthly, there is an existing cultural and linguistic bias that exists in these data systems.
-For instance, the AI tools like Google Translate, autocorrect, or AI chatbots embed cultural hierarchies because training data overwhelmingly represents dominant languages, especially English. These systems work best for users who already occupy privileged linguistic and cultural positions. Regional or minority languages are often mistranslated, misrecognized, or absent, reproducing global asymmetries in knowledge production and hence leading to marginalisation of groups and societies. This bias extends beyond language: algorithms trained primarily on Western cultural references may misread or distort other worldviews. As a result, everyday data systems silently universalize specific cultural norms while marginalizing others. The digital world, far from being global and inclusive, remains shaped by the linguistic and cultural dominance of a few. Thus, one needs to keep in mind that Data systems are not passive representations of reality but active participants in shaping how things get perceived socially, economically, and globally. Whether through quantification of human activity, standardization of identity, surveillance in the name of trust, or efficiency as a moral ideal, databases and algorithms embody particular worldviews. They decide who counts, who is visible, and who remains outside the boundaries of legibility.
+In contemporary life, data systems mediate everyday interaction from university portals like Quercus, to paying bills
+to even expressing one's feelings and emotions on social media. Their databases have particular  assumptions about
+people, relations, and how things or society function, and thus they end up reproducing some of the hierarchies and
+political inclinations of the society in which they are designed. Many data systems assume that society and social life
+are reducible to quantifiable metrics. These become very evident through the social media platforms and likes, comments,
+and subscription options that we come across. There is a sense of promotion of the individual over the community. Along
+similar lines, the university education system also assesses the student through participation scores, timetables, and
+analytic dashboards. Thereby, it reflects a neoliberal framework in which individual productivity, competition, and
+visibility are favored over collective learning and care. When relationships, learning, and creativity are translated into
+ metrics and data, then the relational dimension of human life is devalued in favour of what can be counted, and this is
+one of how the data systems affect the social structures and show how society and technology intersect and interact in the
+ everyday life. The second interesting aspect is that of standardisation- for example, as evident through the article- the
+Pakistani NADRA system structures citizenship and identity around a digital  family tree that is digital, requiring all
+individuals to be verified through blood or marriage. As a consequence of this, single mothers, adopted children, or those
+outside heteronormative family structures find themselves excluded. This illustrates how technical systems can naturalize
+moral judgments about what constitutes a “legitimate” family, transforming social expectations into algorithmic rules.
+Thirdly, with the increasing use of biometric authentication, facial recognition, and geolocation in everyday applications,
+a moral logic of suspicion and verification is built, because of which Users must constantly prove who they are to access
+services, as if trust is something that needs to be digitally established. Fourthly, there is an existing cultural and
+linguistic bias that exists in these data systems.
+
+For instance, the AI tools like Google Translate, autocorrect, or AI chatbots embed cultural hierarchies because training data
+overwhelmingly represents dominant languages, especially English. These systems work best for users who already occupy privileged
+linguistic and cultural positions. Regional or minority languages are often mistranslated, misrecognized, or absent, reproducing
+global asymmetries in knowledge production and hence leading to marginalisation of groups and societies. This bias extends beyond
+language: algorithms trained primarily on Western cultural references may misread or distort other worldviews. As a result, everyday
+ data systems silently universalize specific cultural norms while marginalizing others. The digital world, far from being global
+and inclusive, remains shaped by the linguistic and cultural dominance of a few. Thus, one needs to keep in mind that Data systems
+are not passive representations of reality but active participants in shaping how things get perceived socially, economically, and
+globally. Whether through quantification of human activity, standardization of identity, surveillance in the name of trust, or
+efficiency as a moral ideal, databases and algorithms embody particular worldviews. They decide who counts, who is visible, and
+who remains outside the boundaries of legibility.
 ```
