@@ -14,10 +14,10 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-two`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `assignment-two`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
 
@@ -54,7 +54,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 Slowly Changing Dimension (SCD Type 1) — This approach overwrites existing information.
+
+Type 2 Slowly Changing Dimension (SCD Type 2) - This approach retains historical data.
 ```
 
 ***
@@ -179,9 +181,10 @@ Read: Boykis, V. (2019, October 16). _Neural nets are just people all the way do
 
 **What are the ethical issues important to this story?**
 
-Consider, for example, concepts of labour, bias, LLM proliferation, moderating content, intersection of technology and society, ect. 
+Consider, for example, concepts of labour, bias, LLM proliferation, moderating content, the intersection of technology and society, etc. 
 
 
 ```
-Your thoughts...
+The article's story dismantles the myth that high-tech systems operate without human input. AI, just like any other industry, relies on an army of inotaters, coders, labelers, and moderators, and many times they are paid way less than the amount of time they spend completing a task. Ethical concerns include exploitation, opacity, and devaluation of expertise. Similarly, most annotation labor is outsourced to workers in the Global South (Philippines, Kenya, Venezuela, India), mirroring the global garment industry, which raises ethical concern around transnational inequalities i.e, Wealth extracted from low-wage regions powers billion-dollar tech companies in Silicon Valley, digital colonialism i.e Data from the Global South is used to build models that primarily serve corporate interests in the Global North and lastly lack of recognition for the workers who create this for they get no ownership, authorship or intellectual rights over what they produce. Additionally, the ImageNet Roulette example shows how ML systems can assign harmful or absurd labels to human faces. The deeper issue is that automated classification presumes people can be sorted into discrete categories at all, a premise rooted in older projects of measurement, policing, and control. The article emphasizes a critical point that is at every level—taxonomy, categories, labels—datasets encode human choices, assumptions, and biases. As one essay quoted in the piece puts it, “every layer of a given training set’s architecture is infused with politics.” Because labeling decisions shape how machines “see,” they also shape how machines misidentify: classifying faces as “orphan,” “dweeb,” “non-smoker,” or worse. The ImageNet Roulette art project dramatized these failures by allowing people to upload photos and see what dubious labels emerged from older ImageNet categories. In response to critiques, ImageNet’s maintainers have begun a large revision project, identifying and removing thousands of “offensive,” “unsafe,” or “non-visual” categories—once again, by hand. Even the cleanup of machine-learning datasets requires human discernment. The article thus loops back to its opening comparison. Tasks that seem mundane—sewing a seam, identifying a picture—often involve fine-grained judgements, contextual awareness, and embodied skill. While Silicon Valley narratives celebrate automation, much of the infrastructure of AI depends on undervalued and largely invisible workers. The high-tech future is built, paradoxically, through low-tech labor.
+
 ```
